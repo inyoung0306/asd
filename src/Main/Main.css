@@ -1,0 +1,98 @@
+.Header-Wrap{
+
+    /*border: "1px solid black",*/
+    width:100%;
+    height:20%;
+    display:flex;
+    justify-Content:space-between;
+    align-Items:center;
+
+}
+
+.Content-Wrapm{
+
+    width:100%;
+    height:70%;
+    display:flex;
+    align-Items:center;
+
+}
+
+.Button-1{
+    margin-Left:1%;
+    width:500;
+    height:5rem;
+
+}
+
+.Button-2{
+
+    width:5rem;
+    height:5rem;
+    margin-Right:1%;
+
+}
+
+.Button-3{
+
+    width:5rem;
+    height:100%;
+    margin-Left:1%;
+    margin-Right:1%;
+
+}
+
+.Button-4{
+ 
+    width:5rem;
+    height:100%;
+    margin-Right:1%;
+
+}
+
+.Logo{
+
+    height:5rem;
+    font-Size:2rem;
+    display:flex;
+    align-Items:center;
+
+}
+
+.Vertical-Content{
+ 
+    /*border:"5px solid black", */
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-Direction:column;
+     
+}
+
+.Horizontal-Content{
+
+    /*border: "3px solid pink", */
+    width:100%;
+    height:30%;
+    display:flex;
+    margin-bottom: 2%;
+
+}
+
+.Thumbnail{
+
+    height:100%;
+    width:33%;
+
+}
+
+.HeadLine{
+
+    /*border:"1px solid skyblue", */
+    display:flex;
+    align-Items:center;
+    justify-Content:center;
+    width:100%;
+    font-Size:5rem;
+
+}
